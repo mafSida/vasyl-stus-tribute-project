@@ -1,6 +1,5 @@
 # VASYL STUS | Responsive Web Design Certification - Tribute Page
 
-## Tagline
 A basic responsive tribute page dedicated to Ukrainian poet and dissident Vasyl Stus.
 
 ## Overview
